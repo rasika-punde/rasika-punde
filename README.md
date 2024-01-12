@@ -6,10 +6,10 @@
 <div>
     <p>
       <br>
-        🎓 Electrical and Computer Engineering Master's Candidate at Rutgers University
+        🎓 Master's in Computer Engineering from Rutgers University
         <br>
       <br>
-        🚀 Software Engineer with 5+ years of industry experience
+        🚀 Software Engineer with ~6 years of industry experience
         <br>
       <br>
         📱 iOS App Developer | Swift Enthusiast | Software Architect
