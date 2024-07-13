@@ -33,9 +33,6 @@
         💪 Committed, communicative, and dedicated to precise delivery
       <br>
       <br>
-      📄 <a href="https://www.linkedin.com/in/rasikapunde/overlay/1635540095271/single-media-viewer/?profileId=ACoAABHFLD4BbIz4ECfUgyNZQQzmT0kSVuOaXCw" target="_blank">Know about my experiences</a>
-      <br>
-      <br>
         🌟 Let's connect, collaborate, and code! 🚀
 </div>
 
