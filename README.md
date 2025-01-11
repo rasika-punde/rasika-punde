@@ -15,7 +15,7 @@
         📱 iOS App Developer | Swift Enthusiast | Software Architect
         <br>
       <br>
-        💼 Experienced in e-commerce and mHealth domains
+        💼 Experienced in FinTech, e-commerce and mHealth domains
         <br>
       <br>
         💡 Passionate about solving complex problems and exploring cutting-edge technologies
